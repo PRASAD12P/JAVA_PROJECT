@@ -165,7 +165,7 @@ public class Menu {
 
 
 
-         JLabel Input = new JLabel("Input: ");
+         JLabel Input = new JLabel( "Input: ");
          JLabel Output = new JLabel("Output: ");
          JTextField InputField = new JTextField();
          JTextField OutputField = new JTextField();
